@@ -8,20 +8,6 @@ and SPARQL query support.
 
 ---
 
-## 📋 Overview
-
-| Property        | Detail                        |
-|-----------------|-------------------------------|
-| **Author**      | Your Name                     |
-| **Student ID**  | Your Student ID               |
-| **Module**      | Semantic Web Technologies     |
-| **Institution** | SETU                          |
-| **Tool**        | Protégé 5.x                   |
-| **Language**    | OWL 2 (Web Ontology Language) |
-| **Namespace**   | http://example.org/hospital#  |
-
----
-
 ## 🏗️ Ontology Structure
 
 ### Classes
